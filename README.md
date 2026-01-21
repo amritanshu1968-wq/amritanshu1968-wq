@@ -4,6 +4,13 @@
 <p align="center">
   <p align="center">
   
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/amritanshu1968-wq/amritanshu1968-wq/main/5e5d17c2-aec9-4926-a186-9937aa85cf48.png"
+    alt="developer illustration"
+    width="420"
+  />
+</p>
 
 
 <h3 align="center">Frontend Developer | Tech Enthusiast | IoT & Blockchain Explorer</h3>
