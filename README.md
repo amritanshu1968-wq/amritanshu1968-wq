@@ -2,12 +2,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Amritanshu+Shukla;Frontend+Developer;Tech+Enthusiast;IoT+%26+Blockchain+Explorer" />
 </h1>
 <p align="center">
+  <p align="center">
   <img 
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-    alt="coding animation"
-    width="400"
+    src="https://raw.githubusercontent.com/amritanshu1968-wq/amritanshu1968-wq/main/5e5d17c2-aec9-4926-a186-9937aa85cf48.png"
+    alt="developer illustration"
+    width="420"
   />
 </p>
+
 
 <h3 align="center">Frontend Developer | Tech Enthusiast | IoT & Blockchain Explorer</h3>
 
