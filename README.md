@@ -85,16 +85,7 @@ With strong fundamentals in **HTML, CSS, JavaScript, Tailwind CSS**, and hands-o
 - Coding in Free Time  
 - Exploring New Technologies  
 
----
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amritanshu1968-wq&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritanshu1968-wq&theme=tokyonight" />
-</p>
 
 ---
 
