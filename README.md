@@ -20,7 +20,7 @@
 I’m a passionate **Frontend Developer** who enjoys transforming ideas into clean, responsive, and interactive web experiences.  
 With strong fundamentals in **HTML, CSS, JavaScript, Tailwind CSS**, and hands-on exposure to **IoT, Blockchain, and AI-based projects**, I focus on building practical and impactful solutions.
 
-- 🎓 B.Tech in Computer Science Engineering (IoT & Blockchain) — 2023 - Pursuing
+- 🎓 B.Tech in Computer Science Engineering (IoT & Blockchain)  (2023 - Pursuing)
 - 💡 Strong interest in Frontend Development & Emerging Technologies
 - 🚀 I believe in contributing as a **real developer**, not just a learner
 - 📍 Lucknow, India
