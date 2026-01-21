@@ -1,11 +1,23 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Amritanshu+Shukla;Frontend+Developer;Tech+Enthusiast;IoT+%26+Blockchain+Explorer" />
 </h1>
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    alt="coding animation"
+    width="400"
+  />
+</p>
 
-<h1 align="center">Hi 👋, I'm Amritanshu Shukla</h1>
 <h3 align="center">Frontend Developer | Tech Enthusiast | IoT & Blockchain Explorer</h3>
 
 ---
+<img 
+  align="right" 
+  src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" 
+  alt="developer working animation"
+  width="350"
+/>
 
 ### 👨‍💻 About Me
 I’m a passionate **Frontend Developer** who enjoys transforming ideas into clean, responsive, and interactive web experiences.  
