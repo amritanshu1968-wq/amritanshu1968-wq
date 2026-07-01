@@ -163,23 +163,7 @@ Currently pursuing **Data Analytics Internship & AI Training**, where I'm workin
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amritanshu1968-wq&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu1968-wq&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=amritanshu1968-wq&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -189,17 +173,6 @@ Currently pursuing **Data Analytics Internship & AI Training**, where I'm workin
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amritanshu1968-wq&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
 
 # 💡 Quote
 
