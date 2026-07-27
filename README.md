@@ -70,32 +70,96 @@ Currently pursuing **Data Analytics Internship & AI Training**, where I'm workin
 </p>
 
 ---
-
 # 📌 Featured Projects
 
-### 🤖 AI Chat Bot
+### 🏙️ Smart City Digital Twin – Executive Analytics Dashboard
 
-- Responsive UI
-- API Integration
-- Modern Frontend Design
+> **Tech Stack:** Python • SQL • Power BI • Streamlit • Pandas • NumPy • Git
+
+A Smart City analytics platform that simulates IoT sensor data and provides interactive dashboards for monitoring traffic, weather, utilities, emergencies, and city performance.
+
+**✨ Features**
+- 📊 Executive Analytics Dashboard
+- 🚦 Traffic Monitoring & Analysis
+- 🌦️ Weather & Air Quality Analytics
+- 🚨 Emergency Response Dashboard
+- 📈 KPI Monitoring
+- 🗄️ SQL Database Integration
+- 🌐 Streamlit Web Application
+
+🚀 **Live Demo:** https://amritanshu1968-wq-smart-city-digital-twin-app-dii0vm.streamlit.app/
+
+💻 **GitHub:** https://github.com/amritanshu1968-wq/Smart-City-Digital-Twin
 
 ---
 
-### 🧠 AI Virtual Assistant
+### ✍️ AI Blog Generator
 
-- Voice Assistant
-- AI Integration
-- Interactive Dashboard
+> **Tech Stack:** Python • Flask • HTML • CSS • JavaScript • Groq API
+
+An AI-powered web application that generates SEO-friendly blog articles from user prompts using Large Language Models.
+
+**✨ Features**
+- 🤖 AI Blog Generation
+- 🎨 Modern Responsive UI
+- ⚡ Fast Content Creation
+- 📄 Copy & Download Support
+- 🔗 API Integration
+
+🚀 **Live Demo:** https://ai-based-blog-generator.onrender.com
+
+💻 **GitHub:** https://github.com/amritanshu1968-wq
 
 ---
 
-### 📊 Data Analytics Projects *(In Progress)*
+### 🤖 AI Virtual Assistant
 
-- 📈 Sales Dashboard
-- 📉 Customer Churn Analysis
-- 📊 Exploratory Data Analysis
-- 📋 Data Visualization using Python
-- 🤖 Machine Learning Projects
+> **Tech Stack:** Python • Streamlit • Llama 3 • Speech Recognition • gTTS
+
+An intelligent AI assistant capable of answering questions, generating code, translating languages, and supporting voice interactions.
+
+**✨ Features**
+- 🎙️ Voice Assistant
+- 💬 AI Chat
+- 💻 Code Generation
+- 🌐 Language Translation
+- 📰 Weather & News Integration
+
+💻 **GitHub:** https://github.com/amritanshu1968-wq
+
+---
+
+### 📊 University Placement Analytics *(Upcoming)*
+
+> **Tech Stack:** React.js • Spring Boot • MySQL • Python • Power BI
+
+An end-to-end analytics platform for universities to analyze placement trends, predict student placement probability using Machine Learning, and provide interactive dashboards.
+
+**🚀 Planned Features**
+- 📈 Placement Analytics Dashboard
+- 🤖 AI/ML Placement Prediction
+- 📊 Student Skill Gap Analysis
+- 🏢 Recruiter Analytics
+- 🎯 Department-wise Insights
+- 🔐 Role-Based Authentication
+
+🚧 **Status:** Under Development
+
+---
+
+### 💻 Frontend Development Projects
+
+> **Tech Stack:** HTML • CSS • JavaScript • Tailwind CSS
+
+A collection of responsive websites, landing pages, dashboards, and modern UI designs.
+
+**✨ Projects Include**
+- 🌐 Responsive Landing Pages
+- 📊 Dashboard UI Designs
+- 💼 Portfolio Websites
+- ⚡ Modern Web Applications
+
+💻 **GitHub:** https://github.com/amritanshu1968-wq
 
 ---
 
