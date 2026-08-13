@@ -71,7 +71,27 @@ Currently pursuing **Data Analytics Internship & AI Training**, where I'm workin
 
 ---
 # 📌 Featured Projects
+###🚕 Uber NCR Analytics Dashboard
 
+Tech Stack: Python • Pandas • NumPy • Power BI • Data Visualization • Streamlit
+
+An interactive Uber NCR analytics dashboard designed to analyze ride-booking trends, trip patterns, demand, revenue, cancellations, and overall ride performance across the NCR region.
+
+✨ Features
+
+🚕 Uber Ride & Trip Analysis
+📊 Interactive Analytics Dashboard
+📈 Booking & Demand Trend Analysis
+💰 Revenue & Fare Analysis
+❌ Cancellation Analysis
+🕐 Peak Hour & Time-Based Insights
+📍 Location-Based Ride Analysis
+📊 KPI & Business Performance Monitoring
+🔎 Interactive Filters & Visualizations
+
+🚀 Live Demo: https://uberncrdashboard-vbczacjhv9ojaq54nhafzq.streamlit.app/
+
+💻 GitHub: https://github.com/amritanshu1968-wq/Uber_NCR_Dashboard
 ### 🏙️ Smart City Digital Twin – Executive Analytics Dashboard
 
 > **Tech Stack:** Python • SQL • Power BI • Streamlit • Pandas • NumPy • Git
