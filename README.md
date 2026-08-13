@@ -71,7 +71,7 @@ Currently pursuing **Data Analytics Internship & AI Training**, where I'm workin
 
 ---
 # 📌 Featured Projects
-###🚕 Uber NCR Analytics Dashboard
+🚕 Uber NCR Analytics Dashboard
 
 Tech Stack: Python • Pandas • NumPy • Power BI • Data Visualization • Streamlit
 
