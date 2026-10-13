@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amritanshu1968-wq&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=amritanshu1968-wq&label=Profile+Views&color=0284c7&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/amritanshu1968-wq?label=Followers&style=flat-square&color=238636" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Domain-Data_Analyst_%7C_Frontend_Developer-8b5cf6?style=flat-square" alt="Data Analyst | Frontend Developer" />
 </p>
