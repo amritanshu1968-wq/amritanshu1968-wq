@@ -20,14 +20,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amritanshu1968-wq&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/amritanshu1968-wq?label=Followers&style=flat-square&color=238636" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-Frontend_%26_Data_Analytics-8b5cf6?style=flat-square" alt="Primary Focus" />
+  <img src="https://img.shields.io/badge/Domain-Data_Analyst_%7C_Frontend_Developer-8b5cf6?style=flat-square" alt="Data Analyst | Frontend Developer" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a final-year **Computer Science Engineering** student specializing in **IoT & Blockchain** at **Babu Banarasi Das University, Lucknow**. I bridge frontend development and data intelligence—engineering responsive, user-centric web applications while transforming complex datasets into meaningful business insights.
+I am a final-year **Computer Science Engineering** student specializing in **IoT & Blockchain** at **Babu Banarasi Das University, Lucknow**. As a **Data Analyst & Frontend Developer**, I bridge data intelligence and intuitive UI engineering—transforming complex datasets into actionable business insights and engineering responsive, high-performance web applications.
 
 My hands-on experience spans developing interactive analytics dashboards, machine learning regression models, and production-ready web platforms with Python, React, SQL, and Power BI.
 
@@ -36,7 +36,7 @@ My hands-on experience spans developing interactive analytics dashboards, machin
 - 📊 **Analytics & AI:** Currently pursuing Data Analytics Internship & AI Training (Python, SQL, Machine Learning, Power BI)
 - 🏅 **Leadership & Discipline:** National Cadet Corps (NCC) 'B' & 'C' Certificate Holder
 - 📍 **Location:** Lucknow, Uttar Pradesh, India
-- 🚀 **Current Objective:** Open to software engineering internships, frontend roles, and data analytics opportunities
+- 🚀 **Current Objective:** Open to Data Analyst and Frontend Developer opportunities
 
 ---
 
