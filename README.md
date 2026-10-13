@@ -98,26 +98,6 @@ An enterprise-grade smart city analytics platform that simulates multi-domain Io
 🔗 **Links:**  
 💻 [GitHub Repository](https://github.com/amritanshu1968-wq/Smart-City-Digital-Twin) &nbsp;|&nbsp; 🚀 [Live Web Application](https://amritanshu1968-wq-smart-city-digital-twin-app-dii0vm.streamlit.app/)
 
-<details open>
-<summary><b>📸 Genuine Project Previews (Click to Expand / Collapse)</b></summary>
-<br>
-
-**1. Executive Command Center & Operational KPIs**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amritanshu1968-wq/Smart-City-Digital-Twin/main/Assets/screenshots/dashboard_main.png" alt="Executive Command Center KPIs" width="100%" />
-</p>
-
-**2. Live GIS Command Map & Mobility Analytics**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amritanshu1968-wq/Smart-City-Digital-Twin/main/Assets/screenshots/live_map.png" alt="Live GIS Command Map" width="100%" />
-</p>
-
-**3. Environmental AQI Profile & Utilities Grid**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amritanshu1968-wq/Smart-City-Digital-Twin/main/Assets/screenshots/air_utilities.png" alt="Environmental AQI Profile" width="100%" />
-</p>
-</details>
-
 ---
 
 ### 🚕 Uber NCR Ride Intelligence & Analytics Dashboard
@@ -167,52 +147,6 @@ A production-deployed AI content creation web application developed during inter
 
 🔗 **Links:**  
 💻 [GitHub Repository](https://github.com/amritanshu1968-wq/AI-blog-Generator) &nbsp;|&nbsp; 🚀 [Live Render Deployment](https://ai-based-blog-generator.onrender.com)
-
----
-
-### 💼 Recruiter-First Developer Portfolio
-
-> **Tech Stack:** React.js • JavaScript (ES6+) • Tailwind CSS • Formspree • Vercel
-
-A modern developer portfolio website built with a recruiter-first design philosophy—enabling prospective employers to evaluate core competencies, live deployments, and credentials within seconds.
-
-**✨ Key Features:**
-- **Interactive Project Showcase:** Live previews and direct links to deployed Streamlit, React, and Python applications.
-- **Direct Recruiter Contact:** Integrated serverless email endpoint routing messages directly to primary inbox.
-- **Fluid Responsive Design:** Fully responsive layout with custom animations and clean typography.
-
-🔗 **Links:**  
-💻 [GitHub Repository](https://github.com/amritanshu1968-wq/My-Portfolio) &nbsp;|&nbsp; 🚀 [Live Website](https://my-portfolio-blue-xi-79.vercel.app/)
-
----
-
-### 🧭 AI Roadmap Generator
-
-> **Tech Stack:** Python • Flask • Groq LLMs • Glassmorphic UI • JavaScript • Render
-
-An interactive learning roadmap web application that generates step-by-step educational paths for any technology, skill, or academic discipline with milestone checklists and export tools.
-
-**✨ Key Features:**
-- **Dynamic Curriculum Synthesis:** Generates step-by-step module breakdowns based on user skill level.
-- **Interactive Progress Tracking:** Checkbox-based milestone persistence and export capabilities.
-
-🔗 **Links:**  
-💻 [GitHub Repository](https://github.com/amritanshu1968-wq/AI-Roadmap-Generator) &nbsp;|&nbsp; 🚀 [Live Demo](https://ai-roadmap-generator-fu1h.onrender.com)
-
----
-
-### 🏡 Housing.AI – Real Estate Valuation ML Dashboard
-
-> **Tech Stack:** Python • Scikit-Learn • Streamlit • Pandas • NumPy • Plotly
-
-An end-to-end Machine Learning web application designed to analyze California real estate market trends and predict property valuations using trained regression pipelines.
-
-**✨ Key Features:**
-- **Predictive ML Pipelines:** Scikit-Learn preprocessing and regression models for real-time house valuation estimates.
-- **Dynamic Theming:** Custom Streamlit interface equipped with dark and light theme controls.
-
-🔗 **Links:**  
-💻 [GitHub Repository](https://github.com/amritanshu1968-wq/Housing.AI)
 
 ---
 
